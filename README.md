@@ -50,6 +50,16 @@ Python
 - Import required packages
 - Run the code on a local Python interpreter
 
+### Optimized algorithm for longest nonrepeating subsequence
+
+In this, I created an optimized algorithm to find the length of the longest sequence of characters in a string without any repeating characters. I was able to reduce the time complexity from O(n^2) to O(n) through a windowed view of the string.
+
+## Technologies & Packages:
+Python
+
+## Setup:
+- Run the code, inserting test strings at the end as desired
+
 
 ## Let's connect:
   - **LinkedIn**: www.linkedin.com/in/patrick-johnson-5a1858382
